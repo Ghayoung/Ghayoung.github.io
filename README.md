@@ -1,2 +1,0 @@
-# Ghayoung.github.io
-blog
