@@ -3,6 +3,7 @@ title: 2018.06.04
 description: 딩굴이
 tags:
 ---
+![dingul](https://user-images.githubusercontent.com/33112915/40915607-afef0572-6837-11e8-8abc-32019f8ae172.jpg)
 
 우리 딩굴이 많이 사랑했어
 
